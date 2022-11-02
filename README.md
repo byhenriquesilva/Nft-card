@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Site da solução](https://www.frontendmentor.io/solutions/nft-card-X3EyZ2Xi7-)
+- URL da solução: [Site da solução](https://www.frontendmentor.io/solutions/nft-card-EckZcoLbNr)
 - URL do site ao vivo: [Site ao vivo](https://byhenriquesilva.github.io/Nft-card/)
 
 ## Meu processo
