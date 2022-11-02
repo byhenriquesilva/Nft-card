@@ -42,12 +42,13 @@ hr{
 .ethereum h2{
     color: hsl(178, 100%, 50%);
     font-weight: 400; 
+    font-size: 15px;
 }
 
 .clock h2{
     color: hsl(215, 51%, 70%);
     font-weight: 300;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 p{
