@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.conteiner{
+    background: hsl(216, 50%, 16%);
+    border-radius: 10px;
+    width: 350px;
+    height: 560px;
+}
+
+.imagem img{
+    width: 300px;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 21px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+hr{
+    border: 1px solid hsl(215, 32%, 27%);
+    margin: 10px 25px 10px 25px;
+}
+
+.ethereum h4{
+    color: hsl(178, 100%, 50%);
+    font-weight: 400; 
+}
+
+.clock h4{
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+    font-size: 15px;
+}
+
+p{
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+    margin: 13px 25px 10px 25px;
+    font-size: 17px;
+}
+
+.photo img{
+    width: 33px;
+    height: 33px;
+    border: 2px solid hsl(0, 0%, 100%);
+    border-radius: 50%;
+}
+span{
+    color: hsl(0, 0%, 100%);
+}
+
+.ethereum{
+    display: flex;
+    margin: 5px 0px 10px 25px;
+}
+
+.ethereum img{
+    width: 10px;
+    height: 18px;
+    padding-right: 7px;
+}
+
+.clock img{
+    width: 18px;
+    height: 18px;
+    padding-right: 3px;
+
+}
+.clock{
+    display: flex;
+    margin: 5px 0px 10px 115px;
+}
+ .info{
+    display: flex;
+ }
+
+ .photo{
+    display: flex;
+    margin: 5px 0px 10px 25px;
+    align-items: center;
+ }
