@@ -66,7 +66,7 @@ Para desenvolvimento contínuo pretendo continuar aperfeiçoando meus conhecimen
 ### Recursos úteis
 
 - [Converter cores](https://convertingcolors.com/) - Isso me ajudou a converter as cores. Gostei muito deste modelo e vou usá-lo daqui para frente.
-- [Estilizar Tag <hr>](https://www.devmedia.com.br/forum/como-mudar-a-cor-da-tag-hr/573648) - Este é um artigo incrível que me ajudou a entender como estilizar a tag hr. Eu recomendo para quem ainda está aprendendo este conceito.
+- [Estilizar Tag hr](https://www.devmedia.com.br/forum/como-mudar-a-cor-da-tag-hr/573648) - Este é um artigo incrível que me ajudou a entender como estilizar a tag hr. Eu recomendo para quem ainda está aprendendo este conceito.
 
 ## Autor
 
